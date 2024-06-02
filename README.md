@@ -1,5 +1,4 @@
 
-
 # Hashnode Blog Backup
 
 The above repo is quick short demonstration of all the blogs I write on Hashnode platform and a pinch of mix madness being backedup on this repo.
