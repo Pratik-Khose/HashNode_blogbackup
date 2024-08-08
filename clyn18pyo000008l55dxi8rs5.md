@@ -13,30 +13,86 @@ I'm Pratik Hanumant Khose, a 22-year-young originally from Latur, Maharashtra. C
 
 Socials-
 
-1. ✉️ Email: pratikkhose13@gmail.com
+* ✉️ Email: pratikkhose13@gmail.com
     
-2. 🌐 Personal Website: [https://pratik-khose.netlify.app/](https://pratik-khose.netlify.app/)
+* ```http
+    pratikkhose13@gmail.com
+    ```
     
-3. 💻 GitHub: [https://github.com/Pratik-Khose](https://github.com/Pratik-Khose)
+    🌐 Personal Website: [https://pratik-khose.netlify.app/](https://pratik-khose.netlify.app/)
     
-4. 💼 LinkedIn: [https://www.linkedin.com/in/pratik-khose/](https://www.linkedin.com/in/pratik-khose/)
+* ```http
+    https://pratik-khose.netlify.app/
+    ```
     
-5. 📹 YouTube: [https://www.youtube.com/@pratik\_khose13](https://www.youtube.com/@pratik_khose13)
+* 💻 GitHub: [https://github.com/Pratik-Khose](https://github.com/Pratik-Khose)
     
-6. 👨‍💻 Google Developer Profile: [https://g.dev/pratik-khose](https://g.dev/pratik-khose)
+* ```http
+    https://github.com/Pratik-Khose
+    ```
     
-7. 📰 Medium: [https://medium.com/@pratikkhose](https://medium.com/@pratikkhose)
+* 💼 LinkedIn: [https://www.linkedin.com/in/pratik-khose/](https://www.linkedin.com/in/pratik-khose/)
     
-8. 🐦 Twitter: [https://twitter.com/PratikKhose1](https://twitter.com/PratikKhose1)
+* ```http
+    https://www.linkedin.com/in/pratik-khose/
+    ```
     
-9. 📸 Instagram: [https://www.instagram.com/pratik\_khose13/](https://www.instagram.com/pratik_khose13/)
+* 📹 YouTube: [https://www.youtube.com/@pratik\_khose13](https://www.youtube.com/@pratik_khose13)
     
-10. 📚 Stack Overflow: [https://stackoverflow.com/users/25674753/pratik-khose](https://stackoverflow.com/users/25674753/pratik-khose)
+* ```http
+    https://www.youtube.com/@pratik_khose13
+    ```
     
-11. 📌 Pinterest: [https://in.pinterest.com/Pratik\_Khose/](https://in.pinterest.com/Pratik_Khose/)
+* 👨‍💻 Google Developer Profile: [https://g.dev/pratik-khose](https://g.dev/pratik-khose)
     
-12. 🖊️ CodePen: [https://codepen.io/pratik-khose](https://codepen.io/pratik-khose)
+* ```http
+    https://g.dev/pratik-khose
+    ```
     
-13. 🎨 Dribbble: [https://dribbble.com/Pratik\_Khose](https://dribbble.com/Pratik_Khose)
+* 📰 Medium: [https://medium.com/@pratikkhose](https://medium.com/@pratikkhose)
     
-14. 📝 Hashnode: [https://hashnode.com/@PratikKhose](https://hashnode.com/@PratikKhose)
+* ```http
+    https://medium.com/@pratikkhose
+    ```
+    
+* 🐦 Twitter: [https://twitter.com/PratikKhose1](https://twitter.com/PratikKhose1)
+    
+* ```http
+    https://twitter.com/PratikKhose1
+    ```
+    
+* 📸 Instagram: [https://www.instagram.com/pratik\_khose13/](https://www.instagram.com/pratik_khose13/)
+    
+* ```http
+    https://www.instagram.com/pratik_khose13/
+    ```
+    
+* 📚 Stack Overflow: [https://stackoverflow.com/users/25674753/pratik-khose](https://stackoverflow.com/users/25674753/pratik-khose)
+    
+* ```http
+    https://stackoverflow.com/users/25674753/pratik-khose
+    ```
+    
+* 📌 Pinterest: [https://in.pinterest.com/Pratik\_Khose/](https://in.pinterest.com/Pratik_Khose/)
+    
+* ```http
+    https://in.pinterest.com/Pratik_Khose/
+    ```
+    
+* 🖊️ CodePen: [https://codepen.io/pratik-khose](https://codepen.io/pratik-khose)
+    
+* ```http
+    https://codepen.io/pratik-khose
+    ```
+    
+* 🎨 Dribbble: [https://dribbble.com/Pratik\_Khose](https://dribbble.com/Pratik_Khose)
+    
+* ```http
+    https://dribbble.com/Pratik_Khose
+    ```
+    
+* 📝 Hashnode: [https://hashnode.com/@PratikKhose](https://hashnode.com/@PratikKhose)
+    
+* ```http
+    https://hashnode.com/@PratikKhose
+    ```
